@@ -9,4 +9,4 @@
  1. 在游戏的config文件夹中查找`vmct.txt`（不会自动创建，需要手动创建）并阅读内容；
  2. 获取`https://vmct-cn.top/sb3/update.txt`的内容；
  3. 对比2个内容，不一致就在聊天框提醒更新。
-  ![加载失败](https://)
+  ![加载失败](https://vmct-cn.top/img/mod.png)
