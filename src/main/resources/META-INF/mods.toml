@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="vmctmodsb3"
+version="1.0.0"
+displayName="VM Chinese Group StoneBlock3"
+authors="Wulian233"
+description="VM汉化组用于检查汉化补丁更新的MOD"
+[[dependencies.vmctmodsb3]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.vmctmodsb3]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
